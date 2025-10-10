@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # CSC515 Foundations of Computer Vision
 # Module 3: Drawing Functions in OpenCV
  
+=======
+>>>>>>> 5455b679b39148e8eb52f8996719aa283680395f
 import cv2
 
 # === Load image ===
